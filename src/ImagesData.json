@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Lady with a red umbrella",
+    "img": "https://images.pexels.com/photos/3348748/pexels-photo-3348748.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Flowers and some fruits",
+    "img": "https://images.pexels.com/photos/4725133/pexels-photo-4725133.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Beautiful scenery",
+    "img": "https://images.pexels.com/photos/1385472/pexels-photo-1385472.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Some kind of bird",
+    "img": "https://cdn.pixabay.com/photo/2017/02/06/12/34/reptile-2042906__340.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The attack of dragons",
+    "img": "https://cdn.pixabay.com/photo/2021/12/21/09/40/dogs-6884916__340.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Girl with camera",
+    "img": "https://images.pexels.com/photos/3812944/pexels-photo-3812944.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Beautiful Girl with Glasses",
+    "img": "https://images.pexels.com/photos/2100063/pexels-photo-2100063.jpeg"
+  },
+  {
+    "id": 1,
+    "title": "Redhead with frackles",
+    "img": "https://cdn.pixabay.com/photo/2021/12/11/07/59/hotel-6862159__340.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Girl in black dress",
+    "img": "https://cdn.pixabay.com/photo/2017/10/27/20/25/leopard-2895448__340.jpg"
+  },
+  {
+    "id": 9,
+    "title": "img1",
+    "img": "https://cdn.pixabay.com/photo/2016/09/08/22/43/books-1655783__480.jpg"
+  },
+  {
+    "id": 10,
+    "title": "img2",
+    "img": "https://cdn.pixabay.com/photo/2017/09/02/13/21/guggenheim-museum-2707258__340.jpg"
+  },
+  {
+    "id": 11,
+    "title": "img3",
+    "img": "https://cdn.pixabay.com/photo/2016/10/21/14/46/fox-1758183__340.jpg"
+  },
+  {
+    "id": 12,
+    "title": "img4",
+    "img": "https://cdn.pixabay.com/photo/2019/03/30/20/27/camera-4091991__340.png"
+  },
+  {
+    "id": 13,
+    "title": "img5",
+    "img": "https://cdn.pixabay.com/photo/2017/05/08/13/15/bird-2295436__340.jpg"
+  },
+  {
+    "id": 14,
+    "title": "img6",
+    "img": "https://cdn.pixabay.com/photo/2021/07/15/07/50/newborn-6467761__340.jpg"
+  },
+  {
+    "id": 15,
+    "title": "img7",
+    "img": "https://cdn.pixabay.com/photo/2017/05/09/03/47/buildings-2297210__340.jpg"
+  },
+  {
+    "id": 16,
+    "title": "img7",
+    "img": "https://cdn.pixabay.com/photo/2016/11/14/04/45/elephant-1822636__340.jpg"
+  },
+  {
+    "id": 17,
+    "title": "img8",
+    "img": "https://cdn.pixabay.com/photo/2015/02/13/11/57/wolf-635063__340.jpg"
+  }
+]
